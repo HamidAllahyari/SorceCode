@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Istart +;
+        Istart =+1;
         Log.d("TAG","Number of onStart : "+ Istart);
     }
     ////////////////////
